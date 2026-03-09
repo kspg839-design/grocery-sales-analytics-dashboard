@@ -1,8 +1,14 @@
 
 Grocery Store Chain Sales Dataset
 
+
+
+
 Dataset Overview
 This comprehensive synthetic dataset contains 1,980 records from a multi-location grocery store chain, capturing detailed transaction data across various store locations, product categories, customer interactions, and promotional activities. The dataset spans approximately 2 years of sales data (2023-2025) and provides insights into customer purchasing behavior, store performance, product popularity, and promotional effectiveness.
+
+
+
 
 Dataset Characteristics
 
@@ -16,6 +22,9 @@ Store Locations: 9 different grocery store branches
 Product Categories: 11 distinct aisles
 
 Data Quality: Includes realistic missing values and data inconsistencies for cleaning practice
+
+
+
 
 
 Column Descriptions
