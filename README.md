@@ -81,7 +81,7 @@ These products are commonly associated with **weekend consumption** and may enco
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Screenshot 2026-03-09 132204.png)
 
 ---
 
