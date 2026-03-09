@@ -5,6 +5,8 @@ Dataset Overview
 This comprehensive synthetic dataset contains 1,980 records from a multi-location grocery store chain, capturing detailed transaction data across various store locations, product categories, customer interactions, and promotional activities. The dataset spans approximately 2 years of sales data (2023-2025) and provides insights into customer purchasing behavior, store performance, product popularity, and promotional effectiveness.
 
 Dataset Characteristics
+
+
 Total Records: 1,980 transactions
 Time Period: August 2023 - August 2025
 Store Locations: 9 different grocery store branches
