@@ -86,4 +86,24 @@ These products are commonly associated with **weekend consumption** and may enco
 
 ---
 
-## Project Structure
+## Project Structure  
+
+data/
+Dataset used for analysis
+
+sql/
+SQL queries used for data cleaning and analysis
+
+dashboard/
+Power BI dashboard file
+
+documentation/
+Dataset description and documentation
+
+images/
+Dashboard screenshot used in README
+
+---
+
+## Author
+This project was created as part of a data analytics portfolio to demonstrate skills in SQL, data analysis, and Power BI dashboard development.
