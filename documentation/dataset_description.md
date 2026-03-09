@@ -27,7 +27,7 @@ Data Quality: Includes realistic missing values and data inconsistencies for cle
 
 
 
-Column Descriptions
+Column Descriptions 						
 
 
 customer_id	= String Unique customer identifier	"2824", "5506", "4657"	4-digit customer IDs
