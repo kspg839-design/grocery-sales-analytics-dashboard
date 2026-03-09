@@ -14,6 +14,7 @@ These insights can help businesses improve **inventory planning, marketing strat
 ---
 
 ## Tools Used
+- MS Excel – Data understanding  
 - SQL – Data cleaning and exploratory analysis  
 - Power BI – Data modeling and dashboard visualization  
 - GitHub – Project documentation and version control  
